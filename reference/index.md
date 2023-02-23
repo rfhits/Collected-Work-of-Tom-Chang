@@ -50,6 +50,18 @@ reference
 
 文字内容冲突：《就为你》文案中，[「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3) 作“曲子該是進大學前就完成的”，[想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html) 作“曲子是进大学前就完成的”。后者少了一个“该”字。
 
+## 天空不要为我掉眼泪
+
+### 参考
+
+-   [你是我真心的執著 - yu-sheng.org](https://web.archive.org/web/20050217035140/http://yu-sheng.org/Music/song.php?a=25&s=2)
+-   [天空不要为我掉眼泪 - wikipedia](https://zh.wikipedia.org/zh-sg/%E5%A4%A9%E7%A9%BA%E4%B8%8D%E8%A6%81%E7%82%BA%E6%88%91%E6%8E%89%E7%9C%BC%E6%B7%9A)
+-   [天空不要为我掉眼泪 - tomchang.cn](https://www.tomchang.cn/music/collection/23.html)
+
+### 存在冲突
+
+[天空不要为我掉眼泪 - wikipedia](https://zh.wikipedia.org/zh-sg/%E5%A4%A9%E7%A9%BA%E4%B8%8D%E8%A6%81%E7%82%BA%E6%88%91%E6%8E%89%E7%9C%BC%E6%B7%9A) 记载发行时间为 1990 年 11 月 23 日，[天空不要为我掉眼泪 - tomchang.cn](https://www.tomchang.cn/music/collection/23.html) 记载为 1989 年 10 月 26 日。
+
 # 文章
 
 # 信札
