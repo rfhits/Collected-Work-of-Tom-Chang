@@ -4,7 +4,7 @@ reference
 
 ## 6 个朋友
 
-参考链接：
+### 参考
 
 -   [Apple Music](https://music.apple.com/cn/album/%E6%88%91%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%B8%8D%E6%98%AF%E6%A2%A6/1444992243?i=1444992246)
 -   [pixnet](https://hom11007.pixnet.net/blog/post/28106631)
@@ -20,7 +20,7 @@ reference
 
 ## 天天想你
 
-参考链接：
+### 参考
 
 -   [「天天想你」製作感言 - yu-sheng.org](https://web.archive.org/web/20050217133312/http://yu-sheng.org/Literature/showlit.php?type=3&rank=2)
 -   [天天想你 - tomchang.cn](https://www.tomchang.cn/music/album/10.html)
@@ -36,6 +36,19 @@ reference
 ### 缺少来源
 
 发行时间缺少
+
+## 想念我
+
+### 参考链接
+
+-   [想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html)
+-   [「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3)
+
+### 存在冲突
+
+文字内容冲突：专辑制作感言中，[「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3) 作“會隨著光陰而無法辨識”，[想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html) 作“会随着光阴而变得无法辨识”。后者多了“变得”两个字。
+
+文字内容冲突：《就为你》文案中，[「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3) 作“曲子該是進大學前就完成的”，[想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html) 作“曲子是进大学前就完成的”。后者少了一个“该”字。
 
 # 文章
 
