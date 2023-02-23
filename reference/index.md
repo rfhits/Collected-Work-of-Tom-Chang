@@ -39,7 +39,7 @@ reference
 
 ## 想念我
 
-### 参考链接
+### 参考
 
 -   [想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html)
 -   [「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3)
