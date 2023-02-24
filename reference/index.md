@@ -62,6 +62,16 @@ reference
 
 [天空不要为我掉眼泪 - wikipedia](https://zh.wikipedia.org/zh-sg/%E5%A4%A9%E7%A9%BA%E4%B8%8D%E8%A6%81%E7%82%BA%E6%88%91%E6%8E%89%E7%9C%BC%E6%B7%9A) 记载发行时间为 1990 年 11 月 23 日，[天空不要为我掉眼泪 - tomchang.cn](https://www.tomchang.cn/music/collection/23.html) 记载为 1989 年 10 月 26 日。
 
+## 青春像把枪
+
+### 参考
+
+[青春像把枪 - tomchang.cn](https://www.tomchang.cn/music/collection/24.html)
+
+### 缺少来源
+
+发行时间缺少
+
 # 文章
 
 # 信札
