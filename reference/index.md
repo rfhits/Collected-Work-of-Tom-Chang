@@ -72,6 +72,17 @@ reference
 
 发行时间缺少
 
+## 张雨生创作专辑
+
+### 参考
+
+- [张雨生创作专辑 - tomchang.cn](https://www.tomchang.cn/music/album/12.html)
+- [「帶我去月球」製作感言 - yu-sheng.org](https://web.archive.org/web/20071220192022/http://yu-sheng.org/Literature/showlit.php?type=3&rank=4)
+
+### 存在冲突
+
+文字冲突：[张雨生创作专辑 - tomchang.cn](https://www.tomchang.cn/music/album/12.html) 的制作感言和 [「帶我去月球」製作感言 - yu-sheng.org](https://web.archive.org/web/20071220192022/http://yu-sheng.org/Literature/showlit.php?type=3&rank=4) 存在冲突，使用文字对比软件可以分析，以后者为准。
+
 # 文章
 
 # 信札
