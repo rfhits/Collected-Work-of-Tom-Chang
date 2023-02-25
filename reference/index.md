@@ -76,23 +76,34 @@ reference
 
 ### 参考
 
-- [张雨生创作专辑 - tomchang.cn](https://www.tomchang.cn/music/album/12.html)
-- [「帶我去月球」製作感言 - yu-sheng.org](https://web.archive.org/web/20071220192022/http://yu-sheng.org/Literature/showlit.php?type=3&rank=4)
+-   [张雨生创作专辑 - tomchang.cn](https://www.tomchang.cn/music/album/12.html)
+-   [「帶我去月球」製作感言 - yu-sheng.org](https://web.archive.org/web/20071220192022/http://yu-sheng.org/Literature/showlit.php?type=3&rank=4)
 
 ### 存在冲突
 
 文字冲突：[张雨生创作专辑 - tomchang.cn](https://www.tomchang.cn/music/album/12.html) 的制作感言和 [「帶我去月球」製作感言 - yu-sheng.org](https://web.archive.org/web/20071220192022/http://yu-sheng.org/Literature/showlit.php?type=3&rank=4) 存在冲突，使用文字对比软件可以分析，以后者为准。
 
-# 大海
+## 大海
 
-## 参考
+### 参考
 
-- [大海 - tomchang.cn](https://www.tomchang.cn/music/album/13.html)
-- [大海 - yu-sheng.org](https://web.archive.org/web/20050215193157/http://yu-sheng.org/Music/album.php?action=sa&id=4)
+-   [大海 - tomchang.cn](https://www.tomchang.cn/music/album/13.html)
+-   [大海 - yu-sheng.org](https://web.archive.org/web/20050215193157/http://yu-sheng.org/Music/album.php?action=sa&id=4)
 
-## 存在冲突
+### 存在冲突
 
 发行时间冲突：[大海 - tomchang.cn](https://www.tomchang.cn/music/album/13.html) 记载发行时间为 1992 年 11 月 30 日，[大海 - yu-sheng.org](https://web.archive.org/web/20050215193157/http://yu-sheng.org/Music/album.php?action=sa&id=4) 记载发行时间为 1992 年 12 月。
+
+## 一天到晚游泳的鱼
+
+### 参考
+
+-   [一天到晚游泳的鱼 - tomchang.cn](https://www.tomchang.cn/music/album/14.html)
+-   [一天到晚游泳的鱼 - yu-sheng.org](https://web.archive.org/web/20120824043855/http://www.yu-sheng.org/Music/album.php?action=sa&id=5)
+
+### 存在冲突
+
+发行时间冲突：[一天到晚游泳的鱼 - tomchang.cn](https://www.tomchang.cn/music/album/14.html) 记载为 1993 年 8 月 24 日，[一天到晚游泳的鱼 - yu-sheng.org](https://web.archive.org/web/20120824043855/http://www.yu-sheng.org/Music/album.php?action=sa&id=5) 记载为 1993 年 6 月。
 
 # 文章
 
