@@ -117,6 +117,17 @@ reference
 
 <img src="../image/专辑/1994-01-23_自由歌/自由歌制作感言.jpg" style="zoom:50%;" /> 来自 [自由歌唱片 - carousell](https://www.carousell.com.hk/p/1092479588/)
 
+## 卡拉 OK·台北·我
+
+### 参考
+
+- [卡拉 OK‧台北‧我 - yu-sheng.org](https://web.archive.org/web/20050215193844/http://yu-sheng.org/Music/album.php?action=sa&id=6)
+- [卡拉 Ok .台北 . 我 - tomchang.cn](https://www.tomchang.cn/music/album/15.html)
+
+### 存在冲突
+
+发行时间冲突：[卡拉 OK‧台北‧我 - yu-sheng.org](https://web.archive.org/web/20050215193844/http://yu-sheng.org/Music/album.php?action=sa&id=6) 记录发行时间为 1994 年 8 月，[卡拉 Ok .台北 . 我 - tomchang.cn](https://www.tomchang.cn/music/album/15.html) 记录发行时间为 1994 年 9 月。
+
 # 文章
 
 # 信札
