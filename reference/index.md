@@ -105,6 +105,18 @@ reference
 
 发行时间冲突：[一天到晚游泳的鱼 - tomchang.cn](https://www.tomchang.cn/music/album/14.html) 记载为 1993 年 8 月 24 日，[一天到晚游泳的鱼 - yu-sheng.org](https://web.archive.org/web/20120824043855/http://www.yu-sheng.org/Music/album.php?action=sa&id=5) 记载为 1993 年 6 月。
 
+## 自由歌
+
+### 参考
+
+-   [自由歌唱片 - carousell](https://www.carousell.com.hk/p/1092479588/)
+-   [自由歌 - tomchang.cn](https://www.tomchang.cn/music/compilation/28.html)
+-   [自由歌 - yu-sheng.org](https://web.archive.org/web/20050215193801/http://yu-sheng.org/Music/album.php?action=sa&id=19)
+
+### 来源
+
+<img src="../image/专辑/1994-01-23_自由歌/自由歌制作感言.jpg" style="zoom:50%;" /> 来自 [自由歌唱片 - carousell](https://www.carousell.com.hk/p/1092479588/)
+
 # 文章
 
 # 信札
