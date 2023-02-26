@@ -19,15 +19,26 @@
 ## 专辑
 
 -   [x] 6 个朋友
+    -   [ ] 歌曲歌词未校对
 -   [x] 天天想你
+    -   [ ] 歌曲歌词未校对
 -   [x] 想念我
+    -   [ ] 歌曲歌词未校对
 -   [x] 天空不要为我掉眼泪
+    -   [ ] 歌曲歌词未校对
 -   [x] 青春像把枪
+    -   [ ] 歌曲歌词未校对
 -   [x] 张雨生创作专辑
+    -   [ ] 歌曲歌词未校对
 -   [x] 大海
+    -   [ ] 歌曲歌词未校对
 -   [x] 一天到晚游泳的鱼
+    -   [ ] 歌曲歌词未校对
 -   [x] 自由歌
+    -   [ ] 歌曲歌词未校对
 -   [x] 卡拉 OK·台北·我
+    -   [ ] 歌曲歌词未校对
+    -   [ ] 动物的悲歌
 
 ## 文章
 
@@ -80,3 +91,25 @@ https://web.archive.org/web/20050206065633/http://yu-sheng.org/other/updates.php
 
 再见雨生书籍：
 https://github.com/yongsen/goodbye_tomzhang
+
+# 感谢
+
+## 软件
+
+-   Visual Studio Code 提供写作环境支持
+-   AutoCorrect 插件提供排版支持
+-   Code Spell Checker 插件提供校对与拼写纠正
+-   Office Viewer(Markdown Editor) 插件提供 Markdown 写作环境
+-   MusicTag 提供歌词查找服务
+-   Netease Music 提供歌词查询接口
+
+## 网站
+
+-   tomchang.cn
+-   yu-sheng.org
+-   web.archive.org
+-   tieba.baidu.com
+
+## 人
+
+感谢不知名的，上传文字的人们。
