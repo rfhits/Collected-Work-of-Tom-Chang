@@ -136,6 +136,22 @@ reference
 - [还是朋友 - tomchang.cn](https://www.tomchang.cn/music/album/16.html)
 - [還是朋友 - yu-sheng.org](https://web.archive.org/web/20050215194329/http://yu-sheng.org/Music/album.php?action=sa&id=7)
 
+## 白色才情
+
+### 参考
+
+- [[文案]《两伊战争 - 白色才情》- douban.com](https://site.douban.com/widget/notes/96866/note/93538457/)
+- [白色才情 - tomchang.cn](https://www.tomchang.cn/music/album/17.html)
+- [《兩伊戰爭–白色才情》 - forward-music.blog](https://forward-music.blog/%e5%bc%b5%e9%9b%a8%e7%94%9f%e3%80%8a%e5%85%a9%e4%bc%8a%e6%88%b0%e7%88%ad-%e7%99%bd%e8%89%b2%e6%89%8d%e6%83%85%e3%80%8b%e5%b0%88%e8%bc%af/)
+
+### 存在冲突
+
+文案感言冲突：[[文案]《两伊战争 - 白色才情》- douban.com](https://site.douban.com/widget/notes/96866/note/93538457/) 将文案和感言混在一起，[白色才情 - tomchang.cn](https://www.tomchang.cn/music/album/17.html) 分开了文案、致谢和感言。
+
+文案冲突：沉默之沙文案冲突，[[文案]《两伊战争 - 白色才情》- douban.com](https://site.douban.com/widget/notes/96866/note/93538457/) 作“试想”，[白色才情 - tomchang.cn](https://www.tomchang.cn/music/album/17.html) 作“是想”。
+
+发行时间冲突：[白色才情 - tomchang.cn](https://www.tomchang.cn/music/album/17.html) 记为 7 月 14 日，[《兩伊戰爭–白色才情》 - forward-music.blog](https://forward-music.blog/%e5%bc%b5%e9%9b%a8%e7%94%9f%e3%80%8a%e5%85%a9%e4%bc%8a%e6%88%b0%e7%88%ad-%e7%99%bd%e8%89%b2%e6%89%8d%e6%83%85%e3%80%8b%e5%b0%88%e8%bc%af/) 记为 7 月 1 日。
+
 # 文章
 
 # 信札
