@@ -129,6 +129,13 @@ reference
 
 发行时间冲突：[卡拉 OK‧台北‧我 - yu-sheng.org](https://web.archive.org/web/20050215193844/http://yu-sheng.org/Music/album.php?action=sa&id=6) 记录发行时间为 1994 年 8 月，[卡拉 Ok .台北 . 我 - tomchang.cn](https://www.tomchang.cn/music/album/15.html) 记录发行时间为 1994 年 9 月。
 
+## 还是朋友
+
+### 参考
+
+- [还是朋友 - tomchang.cn](https://www.tomchang.cn/music/album/16.html)
+- [還是朋友 - yu-sheng.org](https://web.archive.org/web/20050215194329/http://yu-sheng.org/Music/album.php?action=sa&id=7)
+
 # 文章
 
 # 信札
