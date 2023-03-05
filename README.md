@@ -44,6 +44,7 @@
     -   [ ] 歌曲歌词未校对
 -   [x] 白色才情
     -   [ ] 歌曲歌词未校对
+-   [x] 口是心非
 
 ## 文章
 
@@ -59,9 +60,9 @@
 
 红色热情不是张雨生写的，不做收集
 
-反复的歌词只抄录一遍
+繁體的“：”和“；”，冒号偏左，分号居中。
 
-引号一律使用「」『』
+对于歌词，如果有原专辑的图片，就按照原专辑的来，不然就是反复的歌词
 
 # commit comment 约定
 
@@ -97,6 +98,12 @@ https://web.archive.org/web/20050206065633/http://yu-sheng.org/other/updates.php
 再见雨生书籍：
 https://github.com/yongsen/goodbye_tomzhang
 
+张雨生专辑下载，只是用来看专辑封面河文案的：https://dbs.dbdatas.com/0:/m/cn/m/zhangyusheng/all/
+
+# 排版指南
+
+[引文的使用 - mx.nthu.edu.tw](http://mx.nthu.edu.tw/~ptchu/courses/rnw/quotation.htm)
+
 # 感谢
 
 ## 软件
@@ -116,5 +123,7 @@ https://github.com/yongsen/goodbye_tomzhang
 -   tieba.baidu.com
 
 ## 人
+
+[arain1314@tieba.baidu](https://tieba.baidu.com/home/main?id=tb.1.4e394b80.yI7XgPPcG2dtbWITrigvLw)
 
 感谢不知名的，上传文字的人们。
