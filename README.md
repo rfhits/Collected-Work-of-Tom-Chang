@@ -43,7 +43,6 @@
 -   [x] 还是朋友
     -   [ ] 歌曲歌词未校对
 -   [x] 白色才情
-    -   [ ] 歌曲歌词未校对
 -   [x] 口是心非
 
 ## 文章
@@ -103,6 +102,8 @@ https://github.com/yongsen/goodbye_tomzhang
 # 排版指南
 
 [引文的使用 - mx.nthu.edu.tw](http://mx.nthu.edu.tw/~ptchu/courses/rnw/quotation.htm)
+
+脚注不需要“参考”作为一级标题
 
 # 感谢
 
