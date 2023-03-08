@@ -133,6 +133,7 @@ reference
 
 ### 参考
 
+-   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
 -   [还是朋友 - tomchang.cn](https://www.tomchang.cn/music/album/16.html)
 -   [還是朋友 - yu-sheng.org](https://web.archive.org/web/20050215194329/http://yu-sheng.org/Music/album.php?action=sa&id=7)
 
