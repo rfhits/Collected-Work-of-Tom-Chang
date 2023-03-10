@@ -98,6 +98,8 @@ reference
 
 ### 参考
 
+https://tieba.baidu.com/p/2084189463#!/l/p1
+
 -   [一天到晚游泳的鱼 - tomchang.cn](https://www.tomchang.cn/music/album/14.html)
 -   [一天到晚游泳的鱼 - yu-sheng.org](https://web.archive.org/web/20120824043855/http://www.yu-sheng.org/Music/album.php?action=sa&id=5)
 
@@ -121,19 +123,17 @@ reference
 
 ### 参考
 
+-   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
 -   [卡拉 OK‧台北‧我 - yu-sheng.org](https://web.archive.org/web/20050215193844/http://yu-sheng.org/Music/album.php?action=sa&id=6)
 -   [卡拉 Ok .台北 . 我 - tomchang.cn](https://www.tomchang.cn/music/album/15.html)
 -   [动物的悲歌 - music.163.com](https://music.163.com/#/song?id=187861)
-
-### 存在冲突
-
-发行时间冲突：[卡拉 OK‧台北‧我 - yu-sheng.org](https://web.archive.org/web/20050215193844/http://yu-sheng.org/Music/album.php?action=sa&id=6) 记录发行时间为 1994 年 8 月，[卡拉 Ok .台北 . 我 - tomchang.cn](https://www.tomchang.cn/music/album/15.html) 记录发行时间为 1994 年 9 月。
 
 ## 还是朋友
 
 ### 参考
 
 -   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
+-   [还是朋友专辑照片 - tieba.baidu.com](https://tieba.baidu.com/p/2084189480#!/l/p1)
 -   [还是朋友 - tomchang.cn](https://www.tomchang.cn/music/album/16.html)
 -   [還是朋友 - yu-sheng.org](https://web.archive.org/web/20050215194329/http://yu-sheng.org/Music/album.php?action=sa&id=7)
 
