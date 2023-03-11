@@ -111,13 +111,9 @@ https://tieba.baidu.com/p/2084189463#!/l/p1
 
 ### 参考
 
--   [自由歌唱片 - carousell](https://www.carousell.com.hk/p/1092479588/)
+-   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
 -   [自由歌 - tomchang.cn](https://www.tomchang.cn/music/compilation/28.html)
 -   [自由歌 - yu-sheng.org](https://web.archive.org/web/20050215193801/http://yu-sheng.org/Music/album.php?action=sa&id=19)
-
-### 来源
-
-<img src="../image/专辑/1994-01-23_自由歌/自由歌制作感言.jpg" style="zoom:50%;" /> 来自 [自由歌唱片 - carousell](https://www.carousell.com.hk/p/1092479588/)
 
 ## 卡拉 OK·台北·我
 
