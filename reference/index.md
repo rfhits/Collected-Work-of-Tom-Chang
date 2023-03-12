@@ -98,14 +98,10 @@ reference
 
 ### 参考
 
-https://tieba.baidu.com/p/2084189463#!/l/p1
-
+-   [一天到晚游泳的鱼图册 - tieba.com](https://tieba.baidu.com/p/2084189463#!/l/p1)
+-   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
 -   [一天到晚游泳的鱼 - tomchang.cn](https://www.tomchang.cn/music/album/14.html)
 -   [一天到晚游泳的鱼 - yu-sheng.org](https://web.archive.org/web/20120824043855/http://www.yu-sheng.org/Music/album.php?action=sa&id=5)
-
-### 存在冲突
-
-发行时间冲突：[一天到晚游泳的鱼 - tomchang.cn](https://www.tomchang.cn/music/album/14.html) 记载为 1993 年 8 月 24 日，[一天到晚游泳的鱼 - yu-sheng.org](https://web.archive.org/web/20120824043855/http://www.yu-sheng.org/Music/album.php?action=sa&id=5) 记载为 1993 年 6 月。
 
 ## 自由歌
 
