@@ -87,12 +87,8 @@ reference
 
 ### 参考
 
+-   [大海图册 - tieba.baidu.com](https://tieba.baidu.com/p/2084189473#!/l/p1)
 -   [大海 - tomchang.cn](https://www.tomchang.cn/music/album/13.html)
--   [大海 - yu-sheng.org](https://web.archive.org/web/20050215193157/http://yu-sheng.org/Music/album.php?action=sa&id=4)
-
-### 存在冲突
-
-发行时间冲突：[大海 - tomchang.cn](https://www.tomchang.cn/music/album/13.html) 记载发行时间为 1992 年 11 月 30 日，[大海 - yu-sheng.org](https://web.archive.org/web/20050215193157/http://yu-sheng.org/Music/album.php?action=sa&id=4) 记载发行时间为 1992 年 12 月。
 
 ## 一天到晚游泳的鱼
 
