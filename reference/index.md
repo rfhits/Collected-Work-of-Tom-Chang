@@ -54,7 +54,7 @@ reference
 
 ### 参考
 
--   [你是我真心的執著 - yu-sheng.org](https://web.archive.org/web/20050217035140/http://yu-sheng.org/Music/song.php?a=25&s=2)
+-   [天空不要为我掉眼泪 - yahoo.com](https://tw.bid.yahoo.com/item/101221367973)
 -   [天空不要为我掉眼泪 - wikipedia](https://zh.wikipedia.org/zh-sg/%E5%A4%A9%E7%A9%BA%E4%B8%8D%E8%A6%81%E7%82%BA%E6%88%91%E6%8E%89%E7%9C%BC%E6%B7%9A)
 -   [天空不要为我掉眼泪 - tomchang.cn](https://www.tomchang.cn/music/collection/23.html)
 
