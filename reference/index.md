@@ -66,6 +66,7 @@ reference
 
 ### 参考
 
+[青春像把枪 - carousell.com.hk](https://www.carousell.com.hk/p/1107024518/)
 [青春像把枪 - tomchang.cn](https://www.tomchang.cn/music/collection/24.html)
 
 ### 缺少来源
