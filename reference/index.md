@@ -22,16 +22,7 @@ reference
 
 ### 参考
 
--   [「天天想你」製作感言 - yu-sheng.org](https://web.archive.org/web/20050217133312/http://yu-sheng.org/Literature/showlit.php?type=3&rank=2)
--   [天天想你 - tomchang.cn](https://www.tomchang.cn/music/album/10.html)
-
-### 存在冲突
-
-文字内容冲突：[「天天想你」製作感言 - yu-sheng.org](https://web.archive.org/web/20050217133312/http://yu-sheng.org/Literature/showlit.php?type=3&rank=2) 作“溺斃”，[天天想你 - tomchang.cn](https://www.tomchang.cn/music/album/10.html) 作“溺死”
-
-文字内容冲突：[「天天想你」製作感言 - yu-sheng.org](https://web.archive.org/web/20050217133312/http://yu-sheng.org/Literature/showlit.php?type=3&rank=2) 作“不要等到一切都太遲”，[天天想你 - tomchang.cn](https://www.tomchang.cn/music/album/10.html) 作“不要等到一切都已太迟”。
-
-文字内容冲突：[「天天想你」製作感言 - yu-sheng.org](https://web.archive.org/web/20050217133312/http://yu-sheng.org/Literature/showlit.php?type=3&rank=2) 文末致谢换行，[天天想你 - tomchang.cn](https://www.tomchang.cn/music/album/10.html)文末致谢没有换行。
+-   [天天想你制作感言 - facebook.com](https://www.facebook.com/metalkids0607/photos/p.10152672823792010/10152672823792010/)
 
 ### 缺少来源
 
