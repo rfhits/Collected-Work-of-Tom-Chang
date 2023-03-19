@@ -41,14 +41,9 @@ reference
 
 ### 参考
 
+-   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
+-   [張雨生 想念我 黑膠 LPS$328 - carousell.sg](https://www.carousell.sg/p/1201777603)
 -   [想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html)
--   [「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3)
-
-### 存在冲突
-
-文字内容冲突：专辑制作感言中，[「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3) 作“會隨著光陰而無法辨識”，[想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html) 作“会随着光阴而变得无法辨识”。后者多了“变得”两个字。
-
-文字内容冲突：《就为你》文案中，[「想念我」製作感言 - yu-sheng.org](https://web.archive.org/web/20060116140735/http://www.yu-sheng.org/Literature/showlit.php?type=3&rank=3) 作“曲子該是進大學前就完成的”，[想念我 - tomchang.cn](https://www.tomchang.cn/music/album/11.html) 作“曲子是进大学前就完成的”。后者少了一个“该”字。
 
 ## 天空不要为我掉眼泪
 
