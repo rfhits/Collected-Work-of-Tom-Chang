@@ -1,5 +1,7 @@
 reference
 
+[toc]
+
 # 专辑
 
 ## 6 个朋友
@@ -127,3 +129,9 @@ reference
 # 文章
 
 # 信札
+
+## 带着爱的花粉种子
+
+### 参考
+
+-   [张雨生手稿 tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
