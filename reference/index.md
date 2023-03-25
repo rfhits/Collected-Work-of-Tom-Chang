@@ -136,11 +136,12 @@ reference
 
 # 信札
 
-## 带着爱的花粉种子
+## 未来是什么
 
 ### 参考
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+-   [未来是什么 - tomchang.cn](https://www.tomchang.cn/archive/letter/83.html)
 
 ## 归去来兮
 
@@ -149,6 +150,12 @@ reference
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 
 -   [「飞向未来」演唱会 - baike.baidu.com](https://baike.baidu.com/item/%E9%A3%9E%E7%A2%9F%E9%A3%9E%E5%90%91%E6%9C%AA%E6%9D%A51993%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%9E%E5%86%B5%E7%89%B9%E8%BE%91/14893812)
+
+## 带着爱的花粉种子
+
+### 参考
+
+-   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 
 ## 生日之星座诗
 
