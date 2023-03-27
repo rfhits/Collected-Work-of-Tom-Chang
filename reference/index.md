@@ -142,6 +142,7 @@ reference
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 -   [未来是什么 - tomchang.cn](https://www.tomchang.cn/archive/letter/83.html)
+-   [张雨生对《大海》的吐槽 - bilibili.com](https://www.bilibili.com/video/BV1ba411w75W/)
 
 ## 归去来兮
 
