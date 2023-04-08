@@ -152,6 +152,12 @@ reference
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 
+## 严肃呆板的我写不出好情书
+
+### 参考
+
+-   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+
 ## 未来是什么
 
 ### 参考
