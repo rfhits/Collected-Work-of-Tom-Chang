@@ -123,6 +123,7 @@ reference
 
 ### 参考
 
+-   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 -   [《口是心非》照片 - tieba.baidu.com](https://tieba.baidu.com/p/775929583)
 -   [发行日期 - forward-music.blog](https://forward-music.blog/%e5%bc%b5%e9%9b%a8%e7%94%9f_%e5%8f%a3%e6%98%af%e5%bf%83%e9%9d%9e/)
 
