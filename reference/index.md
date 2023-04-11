@@ -145,6 +145,12 @@ reference
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 
+## 施主我的朋友
+
+### 参考
+
+-   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+
 # 信札
 
 ## 「爱」不在最美的时刻说，那要在什么时候出口呢
