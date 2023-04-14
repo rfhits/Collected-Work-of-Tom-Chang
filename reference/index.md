@@ -139,6 +139,12 @@ reference
 
 # 文章
 
+## 不亦快哉
+
+### 参考
+
+-   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+
 ## 淡水感言
 
 ### 参考
