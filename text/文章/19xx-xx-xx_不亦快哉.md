@@ -3,7 +3,7 @@
 ![page-1](../../image/%E6%96%87%E7%AB%A0/19xx-xx-xx_%E4%B8%8D%E4%BA%A6%E5%BF%AB%E5%93%89/page-1.jpg)
 
 乘着夜凉<br>
-卧窗开敞<br>
+卧窗闲敞<br>
 瞅瞅星空<br>
 悠扬歌唱<br>
 遇月而觞<br>
