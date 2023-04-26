@@ -181,6 +181,14 @@ reference
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 -   [想念雨生 - tomchang.cn](https://www.tomchang.cn/archive/letter/76.html)
 
+## 生活计划书
+
+### 参考
+
+-   [再见雨生 - github.com](https://github.com/yongsen/goodbye_tomzhang/tree/master)
+-   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+-   [想念雨生 - tomchang.cn](https://www.tomchang.cn/archive/letter/77.html)
+
 ## 「爱」不在最美的时刻说，那要在什么时候出口呢
 
 ### 参考
