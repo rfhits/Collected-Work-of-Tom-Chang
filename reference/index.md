@@ -240,3 +240,10 @@ reference
 ### 参考
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+
+## 致丰华唱片企宣同事的信
+
+### 参考
+
+-   [雨生为新专辑『口是心非』写给唱片公司的一封信 - tomchang.cn](https://www.tomchang.cn/archive/letter/72.html)
+-   [想你到月球 張雨生特展 14 - weibo.cn](https://m.weibo.cn/status/4854316487677929)
