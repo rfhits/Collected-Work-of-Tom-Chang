@@ -157,6 +157,12 @@ reference
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 
+## 浴火见证
+
+### 参考
+
+- [浴火见证 － 为林靖娟而作 - tomchang.cn](https://www.tomchang.cn/archive/article/62.html)
+
 # 信札
 
 ## 成功岭受训书
