@@ -161,7 +161,7 @@ reference
 
 ### 参考
 
-- [浴火见证 － 为林靖娟而作 - tomchang.cn](https://www.tomchang.cn/archive/article/62.html)
+-   [浴火见证 － 为林靖娟而作 - tomchang.cn](https://www.tomchang.cn/archive/article/62.html)
 
 # 信札
 
@@ -194,6 +194,13 @@ reference
 -   [再见雨生 - github.com](https://github.com/yongsen/goodbye_tomzhang/tree/master)
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 -   [想念雨生 - tomchang.cn](https://www.tomchang.cn/archive/letter/77.html)
+
+## 雨生服役期间写给歌迷的公开信
+
+### 参考
+
+-   [张雨生剪报海报等收藏 - tieba.baidu.com](https://tieba.baidu.com/p/2084189445#!/l/p1)
+-   [雨生服役期间写给歌迷的公开信 - tomchang.cn](https://www.tomchang.cn/archive/letter/71.html)
 
 ## 「爱」不在最美的时刻说，那要在什么时候出口呢
 
