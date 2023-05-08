@@ -163,6 +163,14 @@ reference
 
 -   [浴火见证 － 为林靖娟而作 - tomchang.cn](https://www.tomchang.cn/archive/article/62.html)
 
+## 爱在淡水
+
+### 参考
+
+-   [张雨生剪报海报等收藏 - tieba.baidu.com](https://tieba.baidu.com/p/2084189445#!/l/p1)
+
+-   [爱在淡水 - tomchang.cn](https://www.tomchang.cn/archive/article/57.html)
+
 # 信札
 
 ## 成功岭受训书
