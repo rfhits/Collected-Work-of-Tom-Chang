@@ -145,17 +145,24 @@ reference
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 
+## 施主我的朋友
+
+### 参考
+
+-   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+
 ## 淡水感言
 
 ### 参考
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 
-## 施主我的朋友
+## 永远是个学生
 
 ### 参考
 
--   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+-   [张雨生剪报海报等收藏 - tieba.baidu.com](https://tieba.baidu.com/p/2084189445#!/l/p1)
+-   [永远是个学生 - tomchang.com](https://www.tomchang.cn/archive/article/66.html)
 
 ## 浴火见证
 
