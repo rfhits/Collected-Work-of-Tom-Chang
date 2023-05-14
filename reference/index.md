@@ -170,6 +170,18 @@ reference
 
 -   [浴火见证 － 为林靖娟而作 - tomchang.cn](https://www.tomchang.cn/archive/article/62.html)
 
+## 我的酒娜娜
+
+本文发表于 1996 年 1 月 1 日的《飞碟音乐》杂志
+
+### 参考
+
+-   [我的酒娜娜 - tomchang.cn](https://www.tomchang.cn/archive/article/60.html)
+
+### 缺少来源
+
+虽然图片来自微博某用户，但是该无法在用户的相册中找到对应照片。
+
 ## 爱在淡水
 
 ### 参考
