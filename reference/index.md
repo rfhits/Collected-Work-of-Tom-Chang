@@ -2,6 +2,12 @@ reference
 
 [toc]
 
+# 杂
+
+## 张雨生亲自填写的档案
+
+-   [张雨生个人档案资料 - tomchang.cn](https://www.tomchang.cn/archive/article/8.html): 原载 1997 年 10 月 21 日民生报 11 版
+
 # 专辑
 
 ## 6 个朋友
