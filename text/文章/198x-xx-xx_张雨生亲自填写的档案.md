@@ -1,6 +1,6 @@
 张雨生亲自填写的档案
 
-![张雨生个人档案](../image/%E5%BC%A0%E9%9B%A8%E7%94%9F%E4%BA%B2%E8%87%AA%E5%A1%AB%E5%86%99%E7%9A%84%E6%A1%A3%E6%A1%88.jpg)
+![page-1](../../image/%E6%96%87%E7%AB%A0/198x-xx-xx_%E5%BC%A0%E9%9B%A8%E7%94%9F%E4%BA%B2%E8%87%AA%E5%A1%AB%E5%86%99%E7%9A%84%E6%A1%A3%E6%A1%88/page-1.jpg)
 
 ---
 

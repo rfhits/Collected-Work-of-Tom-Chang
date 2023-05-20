@@ -6,7 +6,12 @@ reference
 
 ## 张雨生亲自填写的档案
 
--   [张雨生个人档案资料 - tomchang.cn](https://www.tomchang.cn/archive/article/8.html): 原载 1997 年 10 月 21 日民生报 11 版
+原载于 1997 年 10 月 21 日民生报 11 版
+
+### 参考
+
+-   [想你到月球特展 - weibo.com](https://weibo.com/2567125954/MmMPLxTBy)
+-   [张雨生个人档案资料 - tomchang.cn](https://www.tomchang.cn/archive/article/8.html):
 
 # 专辑
 
@@ -162,6 +167,14 @@ reference
 ### 参考
 
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
+
+## 我的乐观人生态度
+
+发表于 1997 年 10 月 24 日的《政大大学报》
+
+### 参考
+
+-   [我的乐观人生态度](https://tomchang.cn/archive/article/67.html)
 
 ## 永远是个学生
 
