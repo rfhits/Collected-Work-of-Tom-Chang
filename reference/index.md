@@ -176,6 +176,17 @@ reference
 
 -   [我的乐观人生态度](https://tomchang.cn/archive/article/67.html)
 
+## 张雨生的独白
+
+發表日期：1988-11-05 出處：《飛碟雜誌》【No.32 ～ 34】
+
+缺少图片来源
+
+### 参考
+
+[『我的童年往事』—張雨生平凡又特別的少年故事 - blog.xuite.net](https://blog.xuite.net/mayhsueh6444/wretch/112471803)
+[想你到月球特展 - weibo.com](https://weibo.com/2567125954/MmMWq3p44)
+
 ## 永远是个学生
 
 ### 参考
