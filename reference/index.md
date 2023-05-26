@@ -77,6 +77,7 @@ reference
 -   [贴吧图册 - tieba.baidu.com](https://tieba.baidu.com/p/2084189468#!/l/p1)
 -   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
 -   [张雨生创作专辑 - tomchang.cn](https://www.tomchang.cn/music/album/12.html)
+-   [想你到月球特展 - weibo.com](https://weibo.com/2567125954/MmMWq3p44)
 
 ## 大海
 
@@ -129,6 +130,12 @@ reference
 ### 缺少来源
 
 发行日期确实，根据专辑封面推断，只能精确到 6 月份，具体哪一天不知道。
+
+## 姊妹
+
+### 参考
+
+-   [张惠妹 -- 姊妹 1996](http://kylecollection.blogspot.com/2012/04/1996_26.html)
 
 ## 口是心非
 
