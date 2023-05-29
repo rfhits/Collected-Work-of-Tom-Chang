@@ -137,6 +137,12 @@ reference
 
 -   [张惠妹 -- 姊妹 1996](http://kylecollection.blogspot.com/2012/04/1996_26.html)
 
+## Bad Boy
+
+### 参考
+
+-   [张惠妹 -- Bad Boy 1997](http://kylecollection.blogspot.com/2012/06/bad-boy-1997.html)
+
 ## 口是心非
 
 ### 参考
