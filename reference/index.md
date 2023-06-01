@@ -142,6 +142,7 @@ reference
 ### 参考
 
 -   [张惠妹 -- Bad Boy 1997](http://kylecollection.blogspot.com/2012/06/bad-boy-1997.html)
+-   [想你到月球 張雨生特展 08​](https://weibo.com/2567125954/MmMWq3p44)
 
 ## 口是心非
 
