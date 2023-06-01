@@ -78,6 +78,7 @@ reference
 -   [张雨生音乐作品合辑 - cangkus.com](https://www.cangkus.com/music/21672.html)
 -   [张雨生创作专辑 - tomchang.cn](https://www.tomchang.cn/music/album/12.html)
 -   [想你到月球特展 - weibo.com](https://weibo.com/2567125954/MmMWq3p44)
+-   [想你到月球 張雨生特展 08 - weibo.com​](https://weibo.com/2567125954/MmMWq3p44)
 
 ## 大海
 
@@ -135,14 +136,14 @@ reference
 
 ### 参考
 
--   [张惠妹 -- 姊妹 1996](http://kylecollection.blogspot.com/2012/04/1996_26.html)
+-   [张惠妹 -- 姊妹 1996 - blogspot.com](http://kylecollection.blogspot.com/2012/04/1996_26.html)
 
 ## Bad Boy
 
 ### 参考
 
--   [张惠妹 -- Bad Boy 1997](http://kylecollection.blogspot.com/2012/06/bad-boy-1997.html)
--   [想你到月球 張雨生特展 08​](https://weibo.com/2567125954/MmMWq3p44)
+-   [张惠妹 -- Bad Boy 1997 - blogspot.com](http://kylecollection.blogspot.com/2012/06/bad-boy-1997.html)
+-   [想你到月球 張雨生特展 08​ - weibo.com](https://weibo.com/2567125954/MmMWq3p44)
 
 ## 口是心非
 
@@ -151,6 +152,7 @@ reference
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 -   [《口是心非》照片 - tieba.baidu.com](https://tieba.baidu.com/p/775929583)
 -   [发行日期 - forward-music.blog](https://forward-music.blog/%e5%bc%b5%e9%9b%a8%e7%94%9f_%e5%8f%a3%e6%98%af%e5%bf%83%e9%9d%9e/)
+-   [想你到月球 張雨生特展 08 - weibo.com​](https://weibo.com/2567125954/MmMWq3p44)
 
 ## 雨生欢禧城
 
