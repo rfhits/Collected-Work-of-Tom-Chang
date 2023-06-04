@@ -154,6 +154,16 @@ reference
 -   [发行日期 - forward-music.blog](https://forward-music.blog/%e5%bc%b5%e9%9b%a8%e7%94%9f_%e5%8f%a3%e6%98%af%e5%bf%83%e9%9d%9e/)
 -   [想你到月球 張雨生特展 08 - weibo.com​](https://weibo.com/2567125954/MmMWq3p44)
 
+## 我要为你做饭
+
+-   发行时间缺失
+-   专辑封面缺失
+-   部分歌曲词曲作者信息缺失
+
+### 参考
+
+-   [想你到月球 張雨生特展 10 - weibo.com​](https://weibo.com/2567125954/MmMXSgknO)
+
 ## 雨生欢禧城
 
 ### 参考
