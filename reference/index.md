@@ -262,6 +262,13 @@ reference
 -   [张雨生手稿 - tieba.baidu.com](https://tieba.baidu.com/p/2084189476#!/l/p1)
 -   [开学后心境 - tomchang.cn](https://www.tomchang.cn/archive/letter/75.html)
 
+## 一年级心得
+
+### 参考
+
+-   [想你到月球特展 14 - weibo.com](https://weibo.com/2567125954/MmN1ewdnz)
+-   [家书字迹求辨认 - douban.com](https://www.douban.com/group/topic/289784449/)
+
 ## 商谈在外租房子
 
 ### 参考
