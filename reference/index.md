@@ -320,6 +320,24 @@ reference
 
 -   [「飞向未来」演唱会 - baike.baidu.com](https://baike.baidu.com/item/%E9%A3%9E%E7%A2%9F%E9%A3%9E%E5%90%91%E6%9C%AA%E6%9D%A51993%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%9E%E5%86%B5%E7%89%B9%E8%BE%91/14893812)
 
+## 给歌迷系雨的一封信
+
+缺少图片来源
+
+### 参考
+
+-   [給歌迷繫雨的一封信 - tomchang.cn](https://www.tomchang.cn/archive/letter/70.html)
+-   [給寶友繫雨的一封信 - pixnet.net](https://windlsx.pixnet.net/blog/post/810322)
+
+## 「卡拉 OK·台北·我」宣传期间写给歌迷的一封信
+
+缺少图片来源
+
+## 参考
+
+-   [『卡拉 Ok‧台北‧我』宣传期写给歌迷的一封信 - tomchang.cn](https://www.tomchang.cn/archive/letter/69.html)
+-   [「卡拉 OK‧台北‧我」宣傳期寫給歌迷的一封信 - yu-sheng.org](https://web.archive.org/web/20070709000330/http://www.yu-sheng.org/Literature/showlit.php?type=4&rank=2)
+
 ## 尼泊尔之行
 
 ### 参考
