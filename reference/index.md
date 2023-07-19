@@ -175,6 +175,13 @@ reference
 
 专辑有歌词本，但是没有在互联网上找到相关的图片，所以按照自己的理解给歌词分段。
 
+## 如燕盘旋而来的思念
+
+-   [想你到月球特展 11 - weibo.com](https://weibo.com/2567125954/MmMYCCBbt)
+-   [如燕盘旋而来的思念 - bilibili.com](https://www.bilibili.com/video/BV1zQ4y1q783)
+-   [如燕盘旋而来的思念 - wikipedia.com](https://zh.wikipedia.org/zh-sg/%E5%A6%82%E7%87%95%E7%9B%A4%E6%97%8B%E8%80%8C%E4%BE%86%E7%9A%84%E6%80%9D%E5%BF%B5)
+-   [[汇总]张雨生创作歌词全集 - douban.com](https://www.douban.com/group/topic/5079450/)
+
 # 文章
 
 ## 不亦快哉
